@@ -1,1 +1,2 @@
 # MyTrainigworks
+My new repo
